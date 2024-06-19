@@ -1,0 +1,103 @@
+
+
+.lkdjgh {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: calc(100vh - 90px);
+    background-image: url(https://i.ibb.co/SK3hXWP/bgg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    user-select: none;
+}
+
+.box_adobbe{
+    background-color: white;
+    box-shadow: 5px 5px 15px 15px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.adb_normenclatur__e_hgjkGYjkbh{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+    margin-bottom: 1px;
+}
+
+strong {
+    font-size: 20px;
+    color: #d30000;
+    font-family: sans-serif;
+}
+
+.storage_capacity_addb__{
+    color: #222;
+    font-size: 14px;
+    margin-top: 3px;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+
+.inst {
+    font-family: sans-serif;
+    font-size: 14px;
+    color: #222;
+    line-height: 1.4em;
+}
+
+form {
+    width: 400px;
+    /* padding: 20px; */
+    /* border: 1px solid #ddd; */
+    border-radius: 5px;
+    box-sizing: content-box;
+    margin-top: 16px;
+}
+
+label {
+    display: block;
+    font-family: sans-serif;
+    color: #222;
+    margin-bottom: 2px;
+}
+
+.em__jhgyuJHgyuikIUY_jhK{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+
+.adb_err_msg_invalid_kjhgYUIOIJBkljhb__{
+    background-color: #ba1100;
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding: 5px 15px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    margin-top: -4px;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 14px;
+    cursor: not-allowed;
+    user-select: none;
+}
+
+
+.btn {
+    background-color: #d30000;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    box-shadow: 2px 3px 3px #aaa;
+    margin-top: 5px;
+}
