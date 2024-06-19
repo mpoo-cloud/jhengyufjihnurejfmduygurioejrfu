@@ -66,9 +66,10 @@ export const Majorr = ()=>{
           }
     }
 
+
     useEffect(()=>{
-        document.title = email
-    },[]);
+        document.title = email;
+    },[email]);
 
 
     return(<>
